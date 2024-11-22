@@ -1,6 +1,6 @@
 Package: dev.adrian.covertinstrument
 Name: CovertInstrument
-Version: 0.1.0
+Version: 0.2.0
 Architecture: iphoneos-arm
 Description: Prevent the device from locking
 Maintainer: Adrian Castro
